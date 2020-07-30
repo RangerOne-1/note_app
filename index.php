@@ -62,7 +62,7 @@
             <input type="password" name="password" class="form-control" style="border-radius: 5%" placeholder="Password" required="required">
         </div>
         <div class="form-group">
-            <button type="submit" class="btn btn-danger btn-block">Sign in</button>
+            <button type="submit" class="btn btn-danger btn-block">Sign In</button>
         </div>
     </form>
 </div>
